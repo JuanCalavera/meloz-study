@@ -1,0 +1,18 @@
+.menu{
+    background-color: #FFD500;
+    display: flex;
+    justify-content: space-evenly;
+    color:#000;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.menu p {
+    cursor: pointer;
+}
+
+.space{
+    margin-top: 100px;
+}

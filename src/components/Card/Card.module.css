@@ -1,0 +1,11 @@
+.card{
+    background-color: dimgray;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 10px 30px 10px 30px;
+}
+
+.d_flex{
+    display: flex;
+    justify-content: space-between;
+}
